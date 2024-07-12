@@ -12,7 +12,7 @@ A simple blog application using HTML, CSS, and JavaScript to create, edit, and d
 
 bash
 Copy code
-git clone https://github.com/yourusername/simple-blog.git
+git clone https://github.com/IRims/simple-blog-website.git
 
 ###Navigate to the project directory
 
