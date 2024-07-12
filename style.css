@@ -1,0 +1,13 @@
+body {
+    padding-top: 20px;
+}
+/* styles.css */
+
+.container {
+    background-color: #ababab; /* Change background color to light gray */
+    padding: 20px; /* Add padding for better spacing */
+}
+
+h1 {
+    color: #333; /* Change heading color to dark gray */
+}
