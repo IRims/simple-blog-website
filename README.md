@@ -6,21 +6,21 @@ A simple blog application using HTML, CSS, and JavaScript to create, edit, and d
 -Delete blog posts
 -Posts are saved in local storage
 
-##Getting Started
+## Getting Started
 
-###Clone the repository
+### Clone the repository
 
 bash
 Copy code
 git clone https://github.com/IRims/simple-blog-website.git
 
-###Navigate to the project directory
+### Navigate to the project directory
 
 bash
 Copy code
 cd simple-blog
 
-###Open index.html in your web browser
+### Open index.html in your web browser
 
 bash
 Copy code
